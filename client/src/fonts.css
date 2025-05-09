@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'nin';
+    src: 
+        url('/fonts/nin.woff2') format('woff2'),
+        url('/fonts/nin.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+  }
