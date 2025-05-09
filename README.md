@@ -23,7 +23,6 @@ Follow these steps to get the project up and running on your local machine.
 - Clone this repository to your local machine using the following command:
 ```bash
 git clone https://github.com/vsilvabruno/NooksCranny.git
-cd NooksCranny
 ```
 
 ### 2. Set Up the Backend
